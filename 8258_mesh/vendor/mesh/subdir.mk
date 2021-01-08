@@ -1,0 +1,13 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+O_SRCS += \
+../8258_mesh/vendor/mesh/app.o \
+../8258_mesh/vendor/mesh/app_att.o \
+../8258_mesh/vendor/mesh/main.o 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+
